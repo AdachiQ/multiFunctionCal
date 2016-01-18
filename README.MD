@@ -18,6 +18,6 @@
 
 
 
-生日管家在列表中按照下个生日日期远近顺序排列，添加新的生日支持农历、公历日期，并能够自动转换，生日管家界面如下：
+生日管家在列表中按照下个生日日期远近顺序排列，添加新的生日支持农历、公历日期，并能够自动转换。界面如下：
 ![image](https://github.com/AdachiQ/multiFunctionCal/raw/master/screenshots/生日管家.jpg)
 
