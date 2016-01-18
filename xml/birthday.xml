@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<birthdays>
+    <birthday sday="18" hasyear="true" syear="1979" name="周杰伦" islunar="false" smonth="1"/>
+    <birthday sday="23" hasyear="false" name="孙燕姿" islunar="false" smonth="7"/>
+    <birthday lyear="1978" lmonth="5" leap="false" hasyear="true" name="梁静茹" islunar="true" lday="11"/>
+</birthdays>

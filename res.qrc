@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/birth.png</file>
+        <file>img/cal.png</file>
+        <file>img/checkmark.png</file>
+        <file>img/exit.png</file>
+        <file>img/heart1.png</file>
+        <file>img/heart2.png</file>
+        <file>img/pencil.png</file>
+        <file>img/plus.png</file>
+        <file>img/todo.png</file>
+        <file>img/trashcan.png</file>
+    </qresource>
+</RCC>

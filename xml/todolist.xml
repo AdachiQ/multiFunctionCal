@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<events>
+    <event place="教育超市" title="买文具" done="false" startdate="2013-5-18" enddate="2013-5-18" endtime="14:00" starttime="14:30">
+        <item title="原子笔" done="true"/>
+        <item title="笔记本" done="true"/>
+        <item title="胶带" done="false"/>
+        <item title="橡皮" done="false"/>
+    </event>
+	<event title="向github提交本程序" done="false" startdate="2016-1-18" enddate="2016-1-18" endtime="20:00" starttime="20:30">
+    </event>
+</events>

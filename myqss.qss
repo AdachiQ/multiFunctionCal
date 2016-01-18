@@ -1,0 +1,9 @@
+QToolBox::tab {
+         background-color:grey;
+         color: white;
+}
+
+QToolBox::tab:selected{
+		background:rgb(242,112,112);
+		font:bold;
+}
